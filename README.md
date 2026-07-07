@@ -1,6 +1,6 @@
 # Maybe
 
-Maybe is a psychological VR interactive short game where the player explores an atmospheric, looping memory space to uncover the lifetime regrets of an old man. Players interact with childhood relics to unlock comforting past memories before descending down a dark hallway where physical and audio-guided milestones reveal past conflicts. The game tracks user choices to dynamically alter dialogue paths, culminating in a reflective, clear field scene that provides visual closure to their specific psychological path.
+Maybe is a psychological VR interactive short game where the player explores an atmospheric, looping memory space to uncover the lifetime regrets of an old man. Players interact with childhood relics to unlock comforting past memories before descending down a dark hallway where physical and audio-guided milestones reveal past conflicts. The game tracks user choices to dynamically alter dialogue paths, culminating in a reflective, clear field scene that provides visual closure to their specific psychological path determined by the first object they interacted with.
 
 ### Core Scripts
 
